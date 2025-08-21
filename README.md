@@ -37,8 +37,7 @@ It demonstrates my ability to:
 ---
 
 ##  Project Architecture  
-![Project Architecture](project%20architecture.png)  
-
+![Project Architecture](img/project%20architecture.png)
 **Workflow:**  
 **Kaggle API** → **Python (Pandas)** → **SQL Server** → **Insights & Visualization**  
 
